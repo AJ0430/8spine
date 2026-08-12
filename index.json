@@ -17,7 +17,7 @@
     {
       "id": "apple-music-animated-scraper",
       "name": "APPLE MUSIC ANIMATED (WEB SCRAPER)",
-      "download": "https://8spine-modules.vercel.app/artworks-modules/apple_music_animated.8spine",
+      "download": "https://raw.githubusercontent.com/AJ0430/8spine/refs/heads/main/apple_music_animated.js",
       "version": "v1.0.0",
       "type": "ARTWORK",
       "author": "Morgk",
