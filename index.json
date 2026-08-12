@@ -12,7 +12,7 @@
       "download": "https://raw.githubusercontent.com/AJ0430/8spine/main/liver_module.js",
       "type": "MODULE"
     }
-  ]
+  ],
 "category:artworks": [
     {
       "id": "apple-music-animated-scraper",
@@ -41,6 +41,4 @@
         }
       ]
     }
-  ],
-  "category:testing": []
 }
