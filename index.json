@@ -9,7 +9,7 @@
       "labels": ["MP3", "FLAC", "LOSSLESS", "MULTI-SOURCE"],
       "trusted": true,
       "featured": true,
-      "download": "liver_module.js",
+      "download": "https://raw.githubusercontent.com/AJ0430/8spine/main/liver_module.js",
       "type": "MODULE"
     }
   ]
